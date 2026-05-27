@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WizSettings">
+    <option name="codePoliciesIaC">
+      <list>
+        <option value="VCS IaC policy" />
+      </list>
+    </option>
+    <option name="codePoliciesSecrets">
+      <list>
+        <option value="VCS secrets policy" />
+      </list>
+    </option>
+    <option name="codePoliciesSensitiveData">
+      <list>
+        <option value="VCS sensitive data policy" />
+      </list>
+    </option>
+    <option name="codePoliciesVulnerabilities">
+      <list>
+        <option value="VCS vulnerabilities policy" />
+      </list>
+    </option>
+  </component>
+</project>
